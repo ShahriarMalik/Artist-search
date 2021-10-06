@@ -1,8 +1,6 @@
 # artistsearch
 
-s
-
-# Video Demo: https://youtu.be/NLL40WFSnGg
+## Video Demo: https://youtu.be/NLL40WFSnGg
 
 ## Project setup
 
